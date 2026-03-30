@@ -9,7 +9,7 @@ ________________________________________
 •	Understand product listing layout design
 •	Implement sidebar filters similar to real platforms
 •	Practice frontend development using HTML, CSS, and JavaScript
-•	Improve UI/UX design and layout skills
+•	Improve UI/UX design and layout skills.
 ________________________________________
 🛠️ **Technologies Used**
 •	HTML5 – Structure of the webpage
