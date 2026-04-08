@@ -5,7 +5,7 @@ This project is a Flipkart-like product listing web application clone built usin
 It replicates the user interface of a modern e-commerce platform, allowing users to browse products, view details, and explore filtering options.
 ________________________________________
 🎯 **Objectives**
-•	Create a responsive e-commerce user interface
+•	Create a responsive e-commerce user interface.
 •	Understand product listing layout design
 •	Implement sidebar filters similar to real platforms
 •	Practice frontend development using HTML, CSS, and JavaScript
