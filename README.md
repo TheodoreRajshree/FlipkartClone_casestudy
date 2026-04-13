@@ -1,4 +1,4 @@
-**Flipkart Clone Web Application**
+**Flipkart Clone Web Application**.
 ________________________________________
 📌 **Project Overview**
 This project is a Flipkart-like product listing web application clone built using HTML, CSS, and JavaScript.
