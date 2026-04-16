@@ -14,4 +14,4 @@ ________________________________________
 🛠️ **Technologies Used**
 •	HTML5 – Structure of the webpage
 •	CSS3 – Styling and layout design
-•	JavaScript (ES6) – Interactivity and UI behavior.
+•	JavaScript (ES6) – Interactivity and UI behavior
