@@ -7,7 +7,7 @@ ________________________________________
 🎯 **Objectives**
 •	Create a responsive e-commerce user interface.
 •	Understand product listing layout design.
-•	Implement sidebar filters similar to real platforms
+•	Implement sidebar filters similar to real platforms.
 •	Practice frontend development using HTML, CSS, and JavaScript
 •	Improve UI/UX design and layout skills.
 ________________________________________
